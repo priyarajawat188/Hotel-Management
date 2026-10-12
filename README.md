@@ -45,9 +45,7 @@ Hotel-Booking-Website/
 
 1. Clone this repository:
 
-   ```bash
-  https://github.com/priyarajawat188/Hotel-Management.git
-   ```
+   git clone https://github.com/your-username/hotel-booking-website.git
 
 2. Open the project folder in VS Code.
 
